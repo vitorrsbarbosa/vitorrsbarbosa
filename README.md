@@ -10,7 +10,8 @@
 
 </br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vitorrsbarbosa&hide=["stars","prs","issues"])
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=vitorrsbarbosa&show_icons=true" alt="vitorrsbarbosa"/>
 
 <p align="center">
 <a href="https://stackoverflow.com/vitor-barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vitor-barbosa" height="20" width="20" /></a>
