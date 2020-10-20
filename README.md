@@ -37,7 +37,7 @@ alt="vrs_barbosa" height="20" width="20" /></a>
 
 <a href="https://instagram.com/vrs.barbosa" target="blank">
 <img align="center"
-src="https://www.flaticon.com/premium-icon/icons/svg/717/717392.svg"
+src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg"
 alt="vrs.barbosa" height="20" width="20" /></a>
 </p>
 
