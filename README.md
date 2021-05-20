@@ -35,10 +35,10 @@ alt="vitor-rs-barbosa" height="20" width="20" /></a>
 src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg"
 alt="vrs_barbosa" height="20" width="20" /></a>
 
-<a href="https://instagram.com/vrs.barbosa" target="blank">
+<a href="https://instagram.com/vitor.rsb" target="blank">
 <img align="center"
 src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg"
-alt="vrs.barbosa" height="20" width="20" /></a>
+alt="vitor.rsb" height="20" width="20" /></a>
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=vitorrsbarbosa) -->
