@@ -2,14 +2,17 @@
 
 ---
 
-🤖 I'm currently working as a Software Quality Analyst @ [Pontomais](https://pontomais.com.br/)
+🤖 I'm currently unnemployed
 
 
-🌱 And studying more about End-to-end tests using [Cypress](https://www.cypress.io/) following these courses intending to complete them soon:
-- [Testes end-to-end com Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/)
-- [Testes automatizados com Cypress(intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
-- [Testes automatizados com Cypress - Avançado](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
-- [Testes de regressão visual com Cypress e Percy](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/)
+🌱 And studying more about software testing using [Cypress](https://www.cypress.io/), [Maestro](https://maestro.mobile.dev/) and [Postman](https://www.postman.com/) following these courses intending to complete them soon:
+- ✅ [Automação de testes de API com Postman](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
+- ✅ [Automação de teste Mobile com Maestro](https://automacaodetestemobilecomomaes.club.hotmart.com/)
+- ✅ [Testes end-to-end com Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/)
+- ✅ [Testes automatizados com Cypress(intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
+- ✅ [Testes automatizados com Cypress - Avançado](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
+- 📚 [Testes de regressão visual com Cypress e Percy](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/)
+  
 
 👨‍💻 You can find that most of my projects are currently [here](https://github.com/vitorrsbarbosa?tab=repositories)
 
