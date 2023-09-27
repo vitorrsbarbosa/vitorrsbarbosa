@@ -2,7 +2,7 @@
 
 ---
 
-🤖 I'm currently unnemployed
+🤖 I'm currently unemployed
 
 
 🌱 And studying more about software testing using [Cypress](https://www.cypress.io/), [Maestro](https://maestro.mobile.dev/) and [Postman](https://www.postman.com/) following these courses intending to complete them soon:
