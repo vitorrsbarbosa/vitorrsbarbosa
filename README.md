@@ -1,33 +1,26 @@
-### Olá olá, meu nome é Vítor <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='24px' alt='hi'>
-
----
-
-🤖 I'm currently unemployed
-
-
-🌱 And studying more about software testing using [Cypress](https://www.cypress.io/), [Maestro](https://maestro.mobile.dev/) and [Postman](https://www.postman.com/) following these courses intending to complete them soon:
-- ✅ [Automação de testes de API com Postman](https://www.udemy.com/course/automacao-de-testes-de-api-com-postman-projeto-de-testes/)
-- ✅ [Automação de teste Mobile com Maestro](https://automacaodetestemobilecomomaes.club.hotmart.com/)
-- ✅ [Testes end-to-end com Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/)
-- ✅ [Testes automatizados com Cypress(intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
-- ✅ [Testes automatizados com Cypress - Avançado](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
-- 📚 [Testes de regressão visual com Cypress e Percy](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/)
-  
-
-👨‍💻 You can find that most of my projects are currently [here](https://github.com/vitorrsbarbosa?tab=repositories)
-
----
+<div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=18F74A&width=435&lines=Hi;My+name+is+Vitor+Barbosa;Software+Engineer;Married%2C+cat+lover+and+coffee+drinker" alt="Typing SVG" /></a>
+</div>
 
 <details>
 <summary> Github status </summary>
 <p>
-<table><tr>
-    <td><img width="630px" align="center" src="https://github-readme-stats.vercel.app/api?username=vitorrsbarbosa&count_private=true&show_icons=true&hide=contribs&theme=transparent"/></td>
-    <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrsbarbosa&layout=compact&langs_count=8&hide=css,html&theme=transparent" /></td>
+<table style="display: flex; justify-content: center; align-items: center;"><tr>
+    <td><img src="https://my-stats-weld-tau.vercel.app/api?username=vitorrsbarbosa&show_icons=true&theme=vue" style="margin-right: 10px;"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=vitorrsbarbosa&theme=vue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></td>
 </tr></table>
     NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 </p>
 </details>
+
+---
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="./snake/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="./snake/github-contribution-grid-snake.svg">
+   <img alt="github-snake" src="./snake/github--snake.svg">
+</picture>
 
 ---
 
@@ -44,12 +37,14 @@ alt="LinkedIn" width="34" /></a>
 <img align="center"
 src="https://cdn-icons-png.flaticon.com/512/2111/2111806.png"
 alt="StackOverflow" width="34" /></a>
-<a href="https://twitter.com/vrs_barbosa" target="blank">
+<a href="https://x.com/barbarosa_v" target="blank">
 <img align="center"
-src="https://cdn-icons-png.flaticon.com/512/25/25347.png"
-alt="Twitter" width="34" /></a>
-<a href="https://instagram.com/v_r_s_b" target="blank">
+src="https://cdn-icons-png.flaticon.com/256/5968/5968958.png"
+alt="X" width="34" /></a>
+<a href="https://instagram.com/vitor.rs.barbosa" target="blank">
 <img align="center"
 src="https://cdn-icons-png.flaticon.com/512/3661/3661391.png"
 alt="Instagram" width="34" /></a>
 </p>
+
+</div>
